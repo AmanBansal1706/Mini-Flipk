@@ -6,7 +6,7 @@ import { FaChevronRight, FaChevronLeft } from "react-icons/fa";
 import ProductCard from "../components/Home/ProductCard";
 import Categories from "../components/Home/Category";
 import HomeLoadingSkeleton from "../components/Common/HomeLoadingSkeleton";
-import { useGetProduct } from "../services/Query/ProductQuery";
+import { useGetProduct } from "../services/query/ProductQuery";
 
 const PageContainer = styled.div`
   max-width: 1400px;
