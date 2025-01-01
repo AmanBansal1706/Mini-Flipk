@@ -8,7 +8,7 @@ import {
   FaBitcoin,
   FaEdit,
 } from "react-icons/fa";
-import { useGetUserProfile } from "../services/Query/ProductQuery";
+import { useGetUserProfile } from "../services/query/ProductQuery";
 import LoadingIndicator from "../components/Common/LoadingIndicator";
 
 const ProfileContainer = styled.div`

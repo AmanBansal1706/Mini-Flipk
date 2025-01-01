@@ -18,7 +18,7 @@ import useProductCart from "../hooks/useProductCart";
 import {
   useGetProductById,
   useGetProduct,
-} from "../services/Query/ProductQuery";
+} from "../services/query/ProductQuery";
 import ProductCard from "../components/Home/ProductCard";
 
 const ProductContainer = styled.div`
