@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { FaSearch } from "react-icons/fa";
 import { motion } from "framer-motion";
 import { useLocation, useNavigate } from "react-router-dom";
-import { useGetSearchSuggestions } from "../../services/Query/ProductQuery";
+import { useGetSearchSuggestions } from "../../services/query/ProductQuery";
 import LoadingIndicator from "../Common/LoadingIndicator";
 import debounce from "lodash/debounce";
 

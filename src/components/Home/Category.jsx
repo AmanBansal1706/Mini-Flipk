@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import { useGetProductCategories } from "../../services/Query/ProductQuery";
+import { useGetProductCategories } from "../../services/query/ProductQuery";
 import CategoriesLoadingSkeleton from "../Common/CategoriesLoadingSkeleton";
 
 // Styled components
