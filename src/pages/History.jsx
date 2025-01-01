@@ -3,7 +3,7 @@ import React, { useState, useMemo } from "react";
 import styled from "styled-components";
 import { motion, AnimatePresence } from "framer-motion";
 import { useSelector, useDispatch } from "react-redux";
-import { clearHistory } from "../store/historySlice";
+import { clearHistory } from "../Store/historySlice";
 import { Link } from "react-router-dom";
 import {
   FaHistory,
