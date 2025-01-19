@@ -118,7 +118,7 @@ function Home() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        <h1>Welcome to Mini Flipkart</h1>
+        <h1>Welcome to Mudit's Store</h1>
         <p>Discover amazing products at great prices</p>
       </WelcomeBanner>
 

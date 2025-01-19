@@ -98,7 +98,7 @@ function Header() {
     <HeaderContainer>
       <HeaderContent>
         <Logo whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} to="/">
-          Mudit's<span>Store</span>
+          Mudit's<span> Store</span>
         </Logo>
 
         <SearchContainer>
