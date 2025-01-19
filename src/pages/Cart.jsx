@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { useSelector, useDispatch } from "react-redux";
 import { FaPlus, FaMinus, FaTrash } from "react-icons/fa";
 import { addToCart, removeFromCart, clearCart } from "../Store/cartSlice";
-import { addAction } from "../Store/historySlice";
+import { addAction } from "../store/historySlice";
 import EmptyCart from "../components/Cart/EmptyCart";
 import { useNavigate } from "react-router-dom";
 

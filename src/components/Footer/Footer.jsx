@@ -284,7 +284,7 @@ function Footer() {
         <Copyright>
           <p>
             © 2024 MiniFlipkart. Made with{" "}
-            <FaHeart style={{ color: "#ff4757" }} /> by Aman Bansal
+            <FaHeart style={{ color: "#ff4757" }} /> by Mudit Tiwari
           </p>
         </Copyright>
       </FooterContent>
